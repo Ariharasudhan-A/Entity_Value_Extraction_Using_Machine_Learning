@@ -12,7 +12,7 @@ The project involves:
   
 - **Prompt Tuning**: Employed regex patterns in Alpaca prompt format for tuning the Gemma-2-2B model.
   
-- **Entity Extraction**: Implemented the Gemma-2-2B model to extract entity values based on predefined regex patterns.
+- **Entity Extraction**: Implemented the prompt tuned Gemma-2-2B model to extract entity values based on predefined regex patterns.
 
 ## Data
 
