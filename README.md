@@ -22,7 +22,7 @@ Note: You can download the images using the links in the "image_link" column of 
 
 ## Results
 
-We achieved an accuracy of **50.45%** in the entity extraction process
+We Achieved an accuracy of **50.45%** in the entity extraction process, highlighting the model's effectiveness in capturing relevant data from diverse product images.
 
 ## License
 
