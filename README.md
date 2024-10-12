@@ -32,4 +32,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any queries or contributions, feel free to reach out to:
 - **Ariharasudhan A** - [Email](mailto:ariadaikalam1234@gmail.com)
-- **Harish R** - [Email](mailto:ariadaikalam1234@gmail.com)
+- **Harish R** - [Email](mailto:harishsekar2004@gmail.com)
