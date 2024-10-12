@@ -17,6 +17,7 @@ The project involves:
 ## Data
 
 You can find all the files related to this project [here](https://drive.google.com/drive/folders/1dp2gcMbzfNw560pne8zdnxniH72sUNwn?usp=sharing).
+
 Note: You can download the images using the links in the "image_link" column of the CSV's.
 
 ## Results
